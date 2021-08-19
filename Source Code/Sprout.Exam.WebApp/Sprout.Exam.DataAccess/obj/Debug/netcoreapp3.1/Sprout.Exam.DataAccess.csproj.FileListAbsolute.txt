@@ -1,0 +1,15 @@
+D:\Documents\Sprout Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.deps.json
+D:\Documents\Sprout Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.dll
+D:\Documents\Sprout Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.pdb
+D:\Documents\Sprout Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.Business.dll
+D:\Documents\Sprout Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.Common.dll
+D:\Documents\Sprout Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.Business.pdb
+D:\Documents\Sprout Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.Common.pdb
+D:\Documents\Sprout Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.csproj.AssemblyReference.cache
+D:\Documents\Sprout Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Sprout Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.AssemblyInfoInputs.cache
+D:\Documents\Sprout Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.AssemblyInfo.cs
+D:\Documents\Sprout Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.csproj.CoreCompileInputs.cache
+D:\Documents\Sprout Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.csproj.CopyComplete
+D:\Documents\Sprout Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.dll
+D:\Documents\Sprout Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.pdb

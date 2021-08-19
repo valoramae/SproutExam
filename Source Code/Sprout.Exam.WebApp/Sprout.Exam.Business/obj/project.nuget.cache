@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nyaTenUtVW2E7zoZxTSpll1GxRcGdXeI/2ngecJFRYZ4p2zpjPxOUanrNOqTqgBFlqdwCBMmRz7N2PfaEUybug==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Sprout Exam\\Sprout.Exam.WebApp\\Sprout.Exam.Business\\Sprout.Exam.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valora mae\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\valora mae\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\valora mae\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
